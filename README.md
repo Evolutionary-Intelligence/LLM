@@ -2,6 +2,7 @@
 
 * Shanahan, M., 2024. [Talking about large language models](https://dl.acm.org/doi/10.1145/3624724). Communications of the ACM, 67(2), pp.68-79.
 * Achiam, J., Adler, S., Agarwal, S., Ahmad, L., Akkaya, I., Aleman, F.L., Almeida, D., Altenschmidt, J., Altman, S., Anadkat, S. and Avila, R., 2023. GPT-4 technical report. arXiv preprint arXiv:2303.08774.
+* Gulcehre, C., Paine, T.L., Srinivasan, S., Konyushkova, K., Weerts, L., Sharma, A., Siddhant, A., Ahern, A., Wang, M., Gu, C. and Macherey, W., 2023. Reinforced self-training (rest) for language modeling. arXiv preprint arXiv:2308.08998.
 * Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A. and Schulman, J., 2022. Training language models to follow instructions with human feedback. Advances in Neural Information Processing Systems, 35, pp.27730-27744.
 * Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.D., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A. and Agarwal, S., 2020. Language models are few-shot learners. Advances in Neural Information Processing Systems, 33, pp.1877-1901.
 * Stiennon, N., Ouyang, L., Wu, J., Ziegler, D., Lowe, R., Voss, C., Radford, A., Amodei, D. and Christiano, P.F., 2020. Learning to summarize with human feedback. Advances in Neural Information Processing Systems, 33, pp.3008-3021.
