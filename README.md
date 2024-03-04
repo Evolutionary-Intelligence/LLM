@@ -1,5 +1,6 @@
 # Large Language Models (LLM)
 
+* https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/
 * Duan, H., Dziedzic, A., Papernot, N. and Boenisch, F., 2024. Flocks of stochastic parrots: Differentially private prompt learning for large language models. Advances in Neural Information Processing Systems, 36.
 * Shanahan, M., 2024. [Talking about large language models](https://dl.acm.org/doi/10.1145/3624724). Communications of the ACM, 67(2), pp.68-79.
 * Malladi, S., Gao, T., Nichani, E., Damian, A., Lee, J.D., Chen, D. and Arora, S., 2023. Fine-tuning language models with just forward passes. Advances in Neural Information Processing Systems.
