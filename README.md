@@ -6,6 +6,7 @@
 * Malladi, S., Gao, T., Nichani, E., Damian, A., Lee, J.D., Chen, D. and Arora, S., 2023. Fine-tuning language models with just forward passes. Advances in Neural Information Processing Systems.
 * Shanahan, M., McDonell, K. and Reynolds, L., 2023. Role play with large language models. Nature, 623(7987), pp.493-498.
 * Mitchell, M. and Krakauer, D.C., 2023. [The debate over understanding in AI’s large language models](https://www.pnas.org/doi/abs/10.1073/pnas.2215907120). Proceedings of the National Academy of Sciences, 120(13), p.e2215907120.
+  * "Indeed, the trajectory of human understanding— both individual and collective—is the development of highly compressed, causally based models of the world analogous to the progression from Ptolemy’s epicycles to Kepler’s elliptical orbits and to Newton’s concise and causal account of planetary motion in terms of gravity."
 * Achiam, J., Adler, S., Agarwal, S., and et al., 2023. [GPT-4 technical report](https://arxiv.org/abs/2303.08774?). arXiv preprint arXiv:2303.08774.
 * Gulcehre, C., Paine, T.L., Srinivasan, S., Konyushkova, K., Weerts, L., Sharma, A., Siddhant, A., Ahern, A., Wang, M., Gu, C. and Macherey, W., 2023. Reinforced self-training (rest) for language modeling. arXiv preprint arXiv:2308.08998.
 * Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A. and Schulman, J., 2022. Training language models to follow instructions with human feedback. Advances in Neural Information Processing Systems, 35, pp.27730-27744.
