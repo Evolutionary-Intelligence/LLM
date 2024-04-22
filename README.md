@@ -11,6 +11,7 @@
 * Achiam, J., Adler, S., Agarwal, S., and et al., 2023. [GPT-4 technical report](https://arxiv.org/abs/2303.08774?). arXiv preprint arXiv:2303.08774.
 * Gulcehre, C., Paine, T.L., Srinivasan, S., Konyushkova, K., Weerts, L., Sharma, A., Siddhant, A., Ahern, A., Wang, M., Gu, C. and Macherey, W., 2023. Reinforced self-training (rest) for language modeling. arXiv preprint arXiv:2308.08998.
 * Sejnowski, T.J., 2023. Large language models and the reverse turing test. Neural Computation, 35(3), pp.309-342.
+* Mahowald, K., Ivanova, A.A., Blank, I.A., Kanwisher, N., Tenenbaum, J.B. and Fedorenko, E., 2023. Dissociating language and thought in large language models: A cognitive perspective. arXiv preprint arXiv:2301.06627.
 * Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A. and Schulman, J., 2022. Training language models to follow instructions with human feedback. Advances in Neural Information Processing Systems, 35, pp.27730-27744.
 * Srivastava, A., Rastogi, A., Rao, A., Shoeb, A.A.M., Abid, A., Fisch, A., Brown, A.R., Santoro, A., Gupta, A., Garriga-Alonso, A. and Kluska, A., 2022. Beyond the imitation game: Quantifying and extrapolating the capabilities of language models. arXiv preprint arXiv:2206.04615.
 * Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D. and Chi, E.H., 2022. Emergent abilities of large language models. Transactions on Machine Learning Research.
