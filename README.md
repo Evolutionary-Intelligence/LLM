@@ -3,6 +3,7 @@
 * https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/
 * Duan, H., Dziedzic, A., Papernot, N. and Boenisch, F., 2024. Flocks of stochastic parrots: Differentially private prompt learning for large language models. Advances in Neural Information Processing Systems, 36.
 * Shanahan, M., 2024. [Talking about large language models](https://dl.acm.org/doi/10.1145/3624724). Communications of the ACM, 67(2), pp.68-79.
+* Weidinger, L., McKee, K.R., Everett, R., Huang, S., Zhu, T.O., Chadwick, M.J., Summerfield, C. and Gabriel, I., 2023. Using the Veil of Ignorance to align AI systems with principles of justice. Proceedings of the National Academy of Sciences, 120(18), p.e2213709120.
 * Malladi, S., Gao, T., Nichani, E., Damian, A., Lee, J.D., Chen, D. and Arora, S., 2023. Fine-tuning language models with just forward passes. Advances in Neural Information Processing Systems.
 * Shanahan, M., McDonell, K. and Reynolds, L., 2023. Role play with large language models. Nature, 623(7987), pp.493-498.
 * Mitchell, M. and Krakauer, D.C., 2023. [The debate over understanding in AI’s large language models](https://www.pnas.org/doi/abs/10.1073/pnas.2215907120). Proceedings of the National Academy of Sciences, 120(13), p.e2215907120.
