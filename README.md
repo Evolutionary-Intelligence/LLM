@@ -17,9 +17,10 @@
 * Srivastava, A., Rastogi, A., Rao, A., Shoeb, A.A.M., Abid, A., Fisch, A., Brown, A.R., Santoro, A., Gupta, A., Garriga-Alonso, A. and Kluska, A., 2022. Beyond the imitation game: Quantifying and extrapolating the capabilities of language models. arXiv preprint arXiv:2206.04615.
 * Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D. and Chi, E.H., 2022. Emergent abilities of large language models. Transactions on Machine Learning Research.
 * Weidinger, L., Mellor, J., Rauh, M., Griffin, C., Uesato, J., Huang, P.S., Cheng, M., Glaese, M., Balle, B., Kasirzadeh, A. and Kenton, Z., 2021. [Ethical and social risks of harm from language models](https://arxiv.org/abs/2112.04359). arXiv preprint arXiv:2112.04359.
-  * Zou, J. and Schiebinger, L., 2018. AI can be sexist and racist—it's time to make it fair. Nature, 559(7714), pp.324-326.
   * Chouldechova, A. and Roth, A., 2020. A snapshot of the frontiers of fairness in machine learning. Communications of the ACM, 63(5), pp.82-89.
   * Garg, S., Perot, V., Limtiaco, N., Taly, A., Chi, E.H. and Beutel, A., 2019, January. Counterfactual fairness in text classification through robustness. In Proceedings of AAAI/ACM Conference on AI, Ethics, and Society (pp. 219-226).
+  * Zou, J. and Schiebinger, L., 2018. AI can be sexist and racist—it's time to make it fair. Nature, 559(7714), pp.324-326.
+  * Caliskan, A., Bryson, J.J. and Narayanan, A., 2017. Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), pp.183-186.
 * Bommasani, R., Hudson, D.A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M.S., Bohg, J., Bosselut, A., Brunskill, E. and Brynjolfsson, E., 2021. On the opportunities and risks of foundation models. arXiv preprint arXiv:2108.07258.
 * Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.D., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A. and Agarwal, S., 2020. Language models are few-shot learners. Advances in Neural Information Processing Systems, 33, pp.1877-1901.
 * Stiennon, N., Ouyang, L., Wu, J., Ziegler, D., Lowe, R., Voss, C., Radford, A., Amodei, D. and Christiano, P.F., 2020. Learning to summarize with human feedback. Advances in Neural Information Processing Systems, 33, pp.3008-3021.
