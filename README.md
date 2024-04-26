@@ -1,5 +1,6 @@
 # Large Language Models (LLM)
 
+* Bachmann, G. and Nagarajan, V., 2024. The pitfalls of next-token prediction. arXiv preprint arXiv:2403.06963.
 * Momennejad, I., Hasanbeig, H., Vieira Frujeri, F., Sharma, H., Jojic, N., Palangi, H., Ness, R. and Larson, J., 2024. Evaluating cognitive maps and planning in large language models with CogEval. Advances in Neural Information Processing Systems, 36.
 * Valmeekam, K., Marquez, M., Sreedharan, S. and Kambhampati, S., 2024. On the planning abilities of large language models-a critical investigation. Advances in Neural Information Processing Systems, 36.
 * https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/
