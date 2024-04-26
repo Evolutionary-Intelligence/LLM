@@ -1,5 +1,6 @@
 # Large Language Models (LLM)
 
+* Momennejad, I., Hasanbeig, H., Vieira Frujeri, F., Sharma, H., Jojic, N., Palangi, H., Ness, R. and Larson, J., 2024. Evaluating cognitive maps and planning in large language models with CogEval. Advances in Neural Information Processing Systems, 36.
 * Valmeekam, K., Marquez, M., Sreedharan, S. and Kambhampati, S., 2024. On the planning abilities of large language models-a critical investigation. Advances in Neural Information Processing Systems, 36.
 * https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/
 * Duan, H., Dziedzic, A., Papernot, N. and Boenisch, F., 2024. Flocks of stochastic parrots: Differentially private prompt learning for large language models. Advances in Neural Information Processing Systems, 36.
