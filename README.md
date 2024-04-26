@@ -1,5 +1,6 @@
 # Large Language Models (LLM)
 
+* Valmeekam, K., Marquez, M., Sreedharan, S. and Kambhampati, S., 2024. On the planning abilities of large language models-a critical investigation. Advances in Neural Information Processing Systems, 36.
 * https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/
 * Duan, H., Dziedzic, A., Papernot, N. and Boenisch, F., 2024. Flocks of stochastic parrots: Differentially private prompt learning for large language models. Advances in Neural Information Processing Systems, 36.
 * Shanahan, M., 2024. [Talking about large language models](https://dl.acm.org/doi/10.1145/3624724). Communications of the ACM, 67(2), pp.68-79.
