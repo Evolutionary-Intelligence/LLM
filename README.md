@@ -1,5 +1,6 @@
 # Large Language Models (LLM)
 
+* Bansal, R., Samanta, B., Dalmia, S., Gupta, N., Vashishth, S., Ganapathy, S., Bapna, A., Jain, P. and Talukdar, P., 2024. Llm augmented llms: Expanding capabilities through composition. arXiv preprint arXiv:2401.02412.
 * Yao, S., Yu, D., Zhao, J., Shafran, I., Griffiths, T., Cao, Y. and Narasimhan, K., 2024. Tree of thoughts: Deliberate problem solving with large language models. Advances in Neural Information Processing Systems, 36.
 * Bachmann, G. and Nagarajan, V., 2024. The pitfalls of next-token prediction. arXiv preprint arXiv:2403.06963.
 * Momennejad, I., Hasanbeig, H., Vieira Frujeri, F., Sharma, H., Jojic, N., Palangi, H., Ness, R. and Larson, J., 2024. Evaluating cognitive maps and planning in large language models with CogEval. Advances in Neural Information Processing Systems, 36.
